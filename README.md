@@ -1,4 +1,4 @@
-# Happy Birthday, Gayatri! ❤️
+
 
 An interactive, story-driven birthday surprise website created for **Gayatri (26 November)** using **React**, **Tailwind CSS**, **Framer Motion**, and **Lucide React**.
 

@@ -12,7 +12,7 @@
 
 export const BIRTHDAY_PERSON = {
   name: 'Gayatri',
-  age: '24',
+  age: '23',
   from: 'Tushar',
   date: '26 November',
   heroEyebrow: "It's officially your day!",
